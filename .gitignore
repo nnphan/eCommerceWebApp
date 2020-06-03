@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/eShopSolution/.vs/eShopSolution
+/eShopSolution/eShopSolution.WebApp/obj
+/eShopSolution/eShopSolution.WebApp/bin/Debug/netcoreapp3.1
