@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace eShopSolution.Data.Entites
+namespace eShopSolution.Data.Entities
 {
     public class AppConfig
     {

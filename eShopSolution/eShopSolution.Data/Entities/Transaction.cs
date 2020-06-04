@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Transactions;
 
-namespace eShopSolution.Data.Entites
+namespace eShopSolution.Data.Entities
 {
     public class Transaction
     {
